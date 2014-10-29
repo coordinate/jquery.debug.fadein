@@ -1,0 +1,48 @@
+#fdebug {
+    z-index: 1000;
+    position: absolute;
+    top: 180px;
+    width: 360px;
+}
+
+.fdebug-log {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: absolute;
+    opacity: 0;
+    color: black;
+}
+
+.fdebug-debug {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: absolute;
+    opacity: 0;
+    color: darkgreen;
+}
+
+.fdebug-info {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: absolute;
+    opacity: 0;
+    color: darkblue;
+}
+
+.fdebug-warn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    color: darkgoldenrod;
+    font-size: 18px;
+
+}
+
+.fdebug-error {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    color: darkred;
+    font-size: 20px;
+}
+

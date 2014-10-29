@@ -1,0 +1,17 @@
+{
+  "name": "jquery.debug.fadein",
+  "version": "1.0.0",
+  "author": {
+    "name": "coordinate",
+    "email": "gcoordinate@gmail.org",
+    "url": "http://coordinate.sinaapp.com/"
+  },
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "uglify-js": "latest",
+    "clean-css": "latest"
+  }
+}
