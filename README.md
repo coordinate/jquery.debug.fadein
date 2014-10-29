@@ -3,6 +3,8 @@ WHAT IS jquery.debug.fadein FOR
 
 This is an open source jquery plugin library to fade in debug information.
 
+![](http://www.baidu.com/img/bdlogo.gif) 
+
 INSTALL
 ==========
 
@@ -18,7 +20,4 @@ Root to jquery.debug.fadein folder and
 
     node build
 
-EXAMPLE
-==========
 
-![](http://www.baidu.com/img/bdlogo.gif) 
