@@ -3,7 +3,7 @@ WHAT IS jquery.debug.fadein FOR
 
 This is an open source jquery plugin library to fade in debug information.
 
-![](https://b-coordinate.rhcloud.com/favicon.ico) 
+![](https://raw.githubusercontent.com/coordinate/jquery.debug.fadein/gh-pages/example.gif) 
 
 INSTALL
 ==========
