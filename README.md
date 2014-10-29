@@ -20,4 +20,6 @@ Root to jquery.debug.fadein folder and
 
     node build
 
-
+EXAMPLE
+==========
+http://coordinate.github.io/jquery.debug.fadein/
